@@ -1,2 +1,4 @@
 retailRover\Core.class
 retailRover\Fi_Con.class
+retailRover\userController.class
+retailRover\User.class

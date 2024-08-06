@@ -15,7 +15,7 @@ public class Core {
 		SpringApplication.run(Core.class, args);
 		
 	}
-
+	/*
 	@Bean
 	public CommandLineRunner commandLineRunner(ApplicationContext ctx) {
 		return args -> {
@@ -29,8 +29,8 @@ public class Core {
 			}
 
 		};
-	}
+	}*/
 	
 	
-
+ 
 }
